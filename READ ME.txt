@@ -1,0 +1,4 @@
+This is a SCSS file made to work with Drupal 7 CSS in conjuction with using the Mothership theme (https://www.drupal.org/project/mothership).
+This allows for an easy starting point for modern styling of Drupal 7 sites.
+It is based around responsiveness and CSS variables to allow for ease of use when creating a new site.
+I personally use a local compiler with VSCode called Live Sass Compiler (https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass). There's multiple compilers you can easily find online or downlaod locally as well.  I have converted the base file already to CSS as well.
